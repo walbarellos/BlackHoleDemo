@@ -1,20 +1,20 @@
-✅ Detecção de matéria sendo engolida com:
+✅ Detection of matter being swallowed with:
 
-Trail/rastro das partículas
-Spaghettification - estiramento visual quando se aproximam
-Fading progressivo ao cruzar horizonte
-Estatísticas em tempo real
+Particle trails
+Spaghettification - visual stretching as particles approach
+Progressive fading when crossing the horizon
+Real-time statistics
 
-✅ Efeitos visuais dinâmicos:
+✅ Dynamic visual effects:
 
-Partículas mudam de acordo com massa, spin e carga
-Frame-dragging visível em Kerr
-Ergosfera achatada e brilhante
-Taxa de acreção calculada
+Particles change according to mass, spin, and charge
+Visible frame-dragging on Kerr
+Flattened and bright ergosphere
+Calculated accretion rate
 
-✅ Controles funcionais:
+✅ Functional controls:
 
-Massa altera tamanho do buraco negro
-Spin cria ergosfera e acelera órbitas
-Carga modifica horizontes
-Taxa de spawn de partículas ajustável
+Mass alters black hole size
+Spin creates ergosphere and accelerates orbits
+Charge modifies horizons
+Adjustable particle spawn rate
